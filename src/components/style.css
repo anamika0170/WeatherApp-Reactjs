@@ -1,0 +1,18 @@
+.text-center{
+    background-image: url('../assets/img2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+}
+.container{
+    margin-top: 50px;
+}
+.head1{
+    color: white;
+    background-image: url('../assets/img4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+hr{
+    color:white;
+}
